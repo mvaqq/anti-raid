@@ -24,7 +24,7 @@ const spamTimeFrame = 30 * 1000;
 const spamThreshold = 5;
 
 const approvedUsers = ['approved_user_id_1', 'approved_user_id_2'];
-const approvedBots = ['1242521460606505072', 'approved_bot_id_2'];
+const approvedBots = ['approved_bot_id_1', 'approved_bot_id_2'];
 
 const userRoles = new Map();
 
