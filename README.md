@@ -9,3 +9,4 @@ LOG_CHANNEL_ID=
 Use this exact format within the file.
 After this you are set, you can run the file! 
 Any errors found please report them to me on discord @mvaq
+This is a very simple setup aimed towards people who dont want to set up a million files. 
